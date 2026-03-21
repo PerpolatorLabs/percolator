@@ -1,4 +1,37 @@
-# Percolator
+# Percolator / Perpolator
+Risk engine name: Percolator
+Dex & Token name: Perpolator
+
+<p align="center">
+  <img src="https://cdn.prod.website-files.com/69082c5061a39922df8ed3b6/69bb865b3c8d048ce9fce96e_HCRswPXbEAEwp0v.jpg" alt="Percolator Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.prod.website-files.com/69082c5061a39922df8ed3b6/69bb865df27184f76fbacb49_ChatGPT%20Image%20Mar%2019%2C%202026%2C%2005_09_54%20AM%20(1).png" alt="Percolator" width="120" />
+</p>
+
+<h1 align="center">Percolator</h1>
+
+<p align="center">
+  <strong>A formally verified perpetual futures risk engine. The predictable alternative to ADL.</strong>
+</p>
+
+<p align="center">
+  <a href="https://x.com/toly"><img src="https://img.shields.io/badge/%40toly-verified-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="@toly verified" /></a>
+  <a href="https://github.com/aeyakovenko"><img src="https://img.shields.io/badge/aeyakovenko-verified-181717?style=flat-square&logo=github&logoColor=white" alt="aeyakovenko verified" /></a>
+  <img src="https://img.shields.io/badge/Solana_Team-verified-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana Team verified" />
+  <img src="https://img.shields.io/badge/Rust-stable-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Kani-158_proofs-4CAF50?style=flat-square" alt="Kani Proofs" />
+  <img src="https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square" alt="Apache 2.0" />
+</p>
+
+<p align="center">
+  <code>Original launch sniped, New Contract Address: D13xiGxG2fvKLfhbsrGvqD1AMKi6dYysVsitiFvkoakA</code>
+</p>
+
+<p align="center">
+  <a href="https://perpolatorlabs.com"><strong>perpolatorlabs.com</strong></a> -- COMING SOON
+</p>
 
 **EDUCATIONAL RESEARCH PROJECT — NOT PRODUCTION READY. NOT AUDITED. Do NOT use with real funds.**
 
