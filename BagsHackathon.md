@@ -10,3 +10,8 @@ Gzs9yE3t696i1hYMAdz34XEjpyBtjeeYGTygkmZjBAGSs
 https://bags.fm/Gzs9yE3t696i1hYMAdz34XEjpyBtjeeYGTygkmZjBAGS
 -->
 
+<!--> Status Update #2 Markets cap 20k distro clean so far; old token being farmed 
+Eyes still limited
+Bags hackathon entry still pending
+Create list of early holders who own less than 3% for airdrop
+-->
