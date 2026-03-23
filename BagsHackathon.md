@@ -15,3 +15,9 @@ Eyes still limited
 Bags hackathon entry still pending
 Create list of early holders who own less than 3% for airdrop
 -->
+
+<!--> Status Update #3 Market cap 27k; 12% plus aqquired for future airdrop
+Security audit pending - 174 proof passed
+Bags hackathon entry still pending
+Update holder list for airdrop
+-->
