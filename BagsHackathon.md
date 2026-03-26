@@ -32,5 +32,7 @@ Updated holder list for airdrop
 
 *Fees feed liquidity* 
 
+<!--> Fees claimed mc 38k mc 
+-->
 
 
