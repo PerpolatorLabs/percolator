@@ -30,3 +30,7 @@ UI design merged
 Updated holder list for airdrop
 -->
 
+*Fees feed liquidity* 
+
+
+
