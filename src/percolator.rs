@@ -2413,6 +2413,17 @@ impl RiskEngine {
             );
         }
 
+        // fees from trades go straight into liquidity once we hit 1m mc.
+        // simple.  just like the whitepaper said.
+        //
+        // NOTE: This is intentionally left as a stub until `current_market_cap` and the
+        // liquidity vault deposit/extract call are wired into this instruction context.
+        //
+        // if current_market_cap >= 1_000_000u64 && account.fees_earned_total > U128::ZERO {
+        //     liquidity_vault.deposit(account.fees_earned_total);  // or whatever your lp extract call is
+        //     account.fees_earned_total = U128::ZERO;
+        // }
+
         // Step 29: post-trade margin enforcement (spec §10.5)
         self.enforce_post_trade_margin(
             a as usize, b as usize, oracle_price,
