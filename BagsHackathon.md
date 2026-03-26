@@ -21,3 +21,12 @@ Security audit pending - 174 proof passed
 Bags hackathon entry still pending
 Update holder list for airdrop
 -->
+
+<!-->Status Update #4 Market cap: 24k; 
+Security auding pending
+Bags Hackathon new entry still pending
+Traction on old ca / new ca: Gzs9yE3t696i1hYMAdz34XEjpyBtjeeYGTygkmZjBAGSs
+UI design merged 
+Updated holder list for airdrop
+-->
+
